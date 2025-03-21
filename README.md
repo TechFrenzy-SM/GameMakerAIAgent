@@ -105,4 +105,6 @@ These agents are invoked through a series of API calls and scripts managed by Au
    )
    ```
 
-By leveraging these AI agents, the project aims to streamline the game development process, making it faster and more efficient.
+## Encouragement for Creativity
+
+Currently, the sample prompt helps this AI system to create a space invader game. However, we encourage you to explore your creativity and try creating more 2D games using this code. The framework and agents are flexible and can be adapted to develop various types of games. Have fun and let your imagination run wild!
